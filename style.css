@@ -1,0 +1,24 @@
+.titleFont{
+    font-family: Georgia;
+    font-size: 50px;
+    font-weight: bold;
+   text-align: center;
+}
+
+.navFont{
+    font-weight: bold;
+    border: none;
+}
+
+#CardB{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 20px;
+}
+
+.card-img-thumbnail{
+   float: right;
+   width: 100%;
+   height: auto;
+}
+
